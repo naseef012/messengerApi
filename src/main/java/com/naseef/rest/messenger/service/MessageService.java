@@ -24,8 +24,8 @@ public class MessageService
 
     static
     {
-        messages.put(1L, new Message(1, "Hello Shaneela", "Naseef"));
-        messages.put(2L, new Message(2, "Hello Naseef!", "Shaneela"));
+        messages.put(1L, new Message(1, "Hello Shaneela", "Aroni"));
+        messages.put(2L, new Message(2, "Hello Aroni!", "Shaneela"));
     }
     public MessageService()
     {
