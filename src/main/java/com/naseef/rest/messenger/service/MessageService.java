@@ -64,7 +64,8 @@ public class MessageService
         if (newStart + end > list.size())
         {
             return new ArrayList<Message>();
-        } else
+        }
+        else
         {
             return list.subList(newStart, newStart + end);
         }
